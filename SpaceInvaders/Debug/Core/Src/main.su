@@ -1,0 +1,14 @@
+main.c:158:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:226:6:displayscore	40	static
+main.c:254:6:drawSprite	40	static
+main.c:272:6:clearSprite	40	static
+main.c:292:7:clearScreen	16	static
+main.c:303:7:updateScreen	16	static
+main.c:317:6:alienFire	24	static
+main.c:359:6:drawPixel	32	static
+main.c:373:5:main	64	static
+main.c:821:6:SystemClock_Config	112	static
+main.c:876:13:MX_I2S3_Init	8	static
+main.c:910:13:MX_DMA_Init	16	static
+main.c:951:13:MX_GPIO_Init	48	static
+main.c:1011:6:Error_Handler	4	static
